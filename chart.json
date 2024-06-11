@@ -1,0 +1,36 @@
+{
+  "status": true,
+  "message": "Данные загружены",
+  "data": [
+    {
+      "id": 1,
+      "datasets": [
+        {
+          "label": "Продажи",
+          "backgroundColor": "#f87979",
+          "data": [40, 20, 12]
+        },
+        {
+          "label": "Остатки на складе",
+          "backgroundColor": "#79f8da",
+          "data": [33, 120, 110]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "datasets": [
+        {
+          "label": "Продажи",
+          "backgroundColor": "#f87979",
+          "data": [33, 11, 99]
+        },
+        {
+          "label": "Остатки на складе",
+          "backgroundColor": "#79f8da",
+          "data": [45, 98, 105]
+        }
+      ]
+    }
+  ]
+}

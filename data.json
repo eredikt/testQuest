@@ -1,0 +1,20 @@
+{
+  "status": true,
+  "message": "Данные загружены",
+  "data" : [
+    {
+      "id": 1,
+      "number": "17657-NU",
+      "status": 1,
+      "nameProduct": "Продукт 1",
+      "dateStar": "21.05.2024"
+    },
+    {
+      "id": 2,
+      "number": "25460-TY",
+      "status": 0,
+      "nameProduct": "Продукт 2",
+      "dateStar": "20.05.2024"
+    }
+  ]
+}
