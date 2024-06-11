@@ -4,7 +4,7 @@ import STATUS from "@/common/constant/status.js";
 import DatePicker from "@/components/DatePicker.vue";
 
 const dialog = defineModel();
-const rules = [(v) => !!v || 'Поле обязательно к заполнению'];
+const rules = [(v) => v !== undefined || 'Поле обязательно к заполнению'];
 const emits = defineEmits(['edit-row'])
 const props = defineProps({
   editData: {
